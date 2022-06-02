@@ -14,3 +14,9 @@
 I am 23 old boy from Tbilisi, Georgia. I got my bachelor degree in Marketing after graduating from International Black Sea University in 2021. At this moment I work at BDO Georgia as a Software Consultant and decided to learn Front-End Development. I can describe myself as a very communicative, passionate and hard working person, so I will try to to my best to learn everything as fast as possible, because **I'm not here to take part, I'm here to overtake.**
 
 ---
+
+## Skills and Proficiency:
+
+- HTML5 CSS3
+- Git, GitHub
+- VS Code
