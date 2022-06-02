@@ -20,3 +20,27 @@ I am 23 old boy from Tbilisi, Georgia. I got my bachelor degree in Marketing aft
 - HTML5 CSS3
 - Git, GitHub
 - VS Code
+
+---
+
+## Work Experience:
+
+- Customer Service Manager - Bank of Georgia
+- Software Consultant - BDO Georgia
+
+---
+
+## Education and Courses:
+
+- International Black Sea University - Faculity of Business Management
+- The Complete Web Development Bootcamp - Udemy
+- JS / Front-End. Stage 0 - RS School
+
+---
+
+## Languages:
+
+- English - C1
+- Russian - C1
+- Georgian - C1
+- Armenian - B1
