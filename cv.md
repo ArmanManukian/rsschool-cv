@@ -4,9 +4,9 @@
 
 ## Contact Information:
 
-**Phone:** +995 557 222349
-**E-mail:** manukyan.arman1999@gmail.com
-**Discord:** 3,14zdec(Armanchik)#9511
+### **Phone:** +995 557 222349
+### **E-mail:** manukyan.arman1999@gmail.com
+### **Discord:** 3,14zdec(Armanchik)#9511
 
 ---
 
