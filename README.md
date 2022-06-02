@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Armanchik17.github.io/rsschool-cv/cv
