@@ -45,11 +45,7 @@ body{
 }
 
 .header{
-  border: 1px solid red;
-}
-
-.main{
-  border: 1px solid blue;
+  background-color: black;
 }
 
 .footer{
@@ -58,7 +54,13 @@ body{
 
 .container {
   max-width: 1440px;
-  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.main-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .nav-list {
@@ -73,10 +75,20 @@ body{
 }
 
 .nav-item a {
-  color: #829985;
+  color: #1d3dcf;
   text-decoration: none;  
   transition: color 0.5s;
 }
 .nav-item a:hover {
-  color: #4d2323;
+  color: #ed0e0e;
+}
+
+.section-profile-logo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+  filter: grayscale(0.2) brightness(1.05);
+  transition: .3s;
 }
