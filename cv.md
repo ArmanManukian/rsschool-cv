@@ -43,4 +43,3 @@ I am 23 old boy from Tbilisi, Georgia. I got my bachelor degree in Marketing aft
 - English - C1
 - Russian - C1
 - Georgian - C1
-- Armenian - B1
